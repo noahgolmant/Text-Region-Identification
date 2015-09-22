@@ -6,7 +6,7 @@ project(text_region_identification)
 find_package( PNG REQUIRED )
 find_package( OpenCV REQUIRED )
 
-set(GS_LOCATION /home/noah/Dev/c-libs/ghostscript-9.16)
+set(GS_LOCATION /your/ghostscript/directory)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
