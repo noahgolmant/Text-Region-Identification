@@ -13,6 +13,7 @@ NOTE: Make sure to edit CMakeLists.txt to set your own ghostscript library locat
 INSTALL:
 
 > cmake .
+
 > make
 
 USAGE:
