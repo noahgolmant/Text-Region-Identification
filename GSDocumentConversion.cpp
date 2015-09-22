@@ -6,7 +6,7 @@
 #include <malloc.h>
 #include <stdlib.h>
 #include <string.h>
-#include "ImageProcessing.h"
+#include "ProcessingRunnable.h"
 
 /*
  * STATIC DATA
